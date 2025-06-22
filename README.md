@@ -1,0 +1,1 @@
+# fatih_temiz.js
